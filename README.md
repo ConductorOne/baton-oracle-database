@@ -1,6 +1,6 @@
 ![Baton Logo](./docs/images/baton-logo.png)
 
-# `baton-oracle-database` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-oracle-database.svg)](https://pkg.go.dev/github.com/conductorone/baton-oracle-database) ![main ci](https://github.com/conductorone/baton-oracle-database/actions/workflows/main.yaml/badge.svg)
+# `baton-oracle-database` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-oracle-database.svg)](https://pkg.go.dev/github.com/conductorone/baton-oracle-database) ![ci](https://github.com/conductorone/baton-oracle-database/actions/workflows/ci.yaml/badge.svg)
 
 `baton-oracle-database` is a connector for built using the [Baton SDK](https://github.com/conductorone/baton-sdk).
 
